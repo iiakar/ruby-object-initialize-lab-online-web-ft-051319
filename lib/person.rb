@@ -4,4 +4,11 @@ class Person
     @name = name 
 
 end 
+
+def dog(name)
+    @name = name 
+
+
 end 
+
+ende
