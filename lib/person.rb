@@ -5,7 +5,7 @@ class Person
 
 end 
 
-def dog(name)
+def initialize(name)
     @name = name 
 
 
